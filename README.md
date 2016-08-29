@@ -8,9 +8,13 @@
 * Keyboard Maestro
 * Karabiner
 * Better touch tool
+* Pomodoro
+* Sketch
+* Skitch
 
 ## Programming 
 * fishshell
+* iTerm
 * Vim
 * Tmux
 * tmuxinator
@@ -21,3 +25,5 @@
 * Dropbox
 * Bartender
 * Shadowsocks
+* Keycastr
+* The unarchiver

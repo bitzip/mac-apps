@@ -21,7 +21,7 @@
 * z command
 * thefuck
 
-## others
+## Others
 * Dropbox
 * Bartender
 * Shadowsocks

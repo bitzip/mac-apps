@@ -22,8 +22,10 @@
 * thefuck
 
 ## Others
-* Dropbox
 * Bartender
 * Shadowsocks
 * Keycastr
 * The unarchiver
+* PDF Expert
+* CleanMyMac
+* Dropbox
